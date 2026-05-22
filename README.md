@@ -13,8 +13,8 @@ El programa se ejecuta mediante consola y expone un menú interactivo con las si
 - **Modificar datos:** Permite localizar rápidamente a un animal mediante su código para actualizar sus métricas dinámicas (peso y edad).
 - **Consultar un animal:** Realiza una búsqueda binaria por el código de chapeta y retorna la información detallada del animal de manera inmediata.
 - **Listar el inventario completo:** Ejecuta un recorrido *Inorden* sobre el árbol para imprimir todos los registros organizados de forma ascendente según su identificador.
-
-- <img width="534" height="189" alt="image" src="https://github.com/user-attachments/assets/ad0ac25c-db61-4146-87bc-37be3d1052fb" />
+## Menu Pincipal
+  <img width="534" height="189" alt="image" src="https://github.com/user-attachments/assets/ad0ac25c-db61-4146-87bc-37be3d1052fb" />
 
 
 ## Tecnologías y Conceptos Aplicados
@@ -22,3 +22,6 @@ El programa se ejecuta mediante consola y expone un menú interactivo con las si
 * **Java:** Programación orientada a objetos y uso de algoritmos recursivos.
 * **Estructuras de Datos Dinámicas:** Construcción de la clase Nodo y la lógica del árbol desde cero, prescindiendo de librerías externas.
 * **Interfaz en Consola:** Manejo de entradas y validaciones básicas utilizando la clase `Scanner`.
+
+## Ejecución 
+- El codigo se ejecuta por medio de la clase **Principal.java**
