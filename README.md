@@ -19,6 +19,7 @@ El programa se ejecuta mediante consola y expone un menú interactivo con las si
   
 
 - **Consultar un animal:** Realiza una búsqueda binaria por el código de chapeta y retorna la información detallada del animal de manera inmediata.
+  
   <img width="425" height="121" alt="image" src="https://github.com/user-attachments/assets/a0307d53-e20e-4ba8-bddf-c260ea98812c" />
   
 
