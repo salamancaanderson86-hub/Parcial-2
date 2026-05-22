@@ -10,15 +10,20 @@ El objetivo principal de esta evaluación es resolver los problemas de rendimien
 El programa se ejecuta mediante consola y expone un menú interactivo con las siguientes operaciones solicitadas en el caso de estudio:
 
 - **Insertar un nuevo animal:** Registra una res en el sistema utilizando el código numérico de su chapeta electrónica como clave de ordenamiento (nodo). Además, almacena atributos como raza, peso y edad.
+  
   <img width="407" height="187" alt="image" src="https://github.com/user-attachments/assets/a9e63079-0f84-4d0b-8cca-fde5fbf49dde" />
 
 - **Modificar datos:** Permite localizar rápidamente a un animal mediante su código para actualizar sus métricas dinámicas (peso y edad).
+  
   <img width="391" height="162" alt="image" src="https://github.com/user-attachments/assets/4853e0e4-1694-407c-b593-e50b4eab4008" />
+  
 
 - **Consultar un animal:** Realiza una búsqueda binaria por el código de chapeta y retorna la información detallada del animal de manera inmediata.
   <img width="425" height="121" alt="image" src="https://github.com/user-attachments/assets/a0307d53-e20e-4ba8-bddf-c260ea98812c" />
+  
 
 - **Listar el inventario completo:** Ejecuta un recorrido *Inorden* sobre el árbol para imprimir todos los registros organizados de forma ascendente según su identificador.
+  
   <img width="510" height="141" alt="image" src="https://github.com/user-attachments/assets/8d1eb0fc-fc36-4e7a-9fe1-b23ceeeb18f3" />
 
 ## Menu Principal
